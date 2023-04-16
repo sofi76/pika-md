@@ -232,5 +232,5 @@ Semua yang selalu mendukung
 [![NurFy](https://github.com/NurFy.png?size=100)](https://github.com/NurFy)
 [![SudoAnirudh](https://github.com/SudoAnirudh.png?size=100)](https://github.com/SudoAnirudh)
 
-Best Regards. Aine-MD
+Best Regards. Sofi-MD
 

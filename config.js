@@ -28,7 +28,7 @@ APIKeys = { // APIKey Here
   'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
-  'https://api.zeks.me': 'apikeyaine',
+  'https://api.zeks.me' : 'apikeyaine' ,
   'https://pencarikode.xyz': 'pais',
   'https://melcanz.com': 'ZZBk7EBb',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
@@ -40,9 +40,9 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = '@ainee_bot'
-  var sticker_author = 'Aine'
-} else {
+  var sticker_name = '@sipa_bot'
+  var  sticker_author  =  'sipa'
+} lainla {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
 }
@@ -57,8 +57,8 @@ fs.watchFile(file_exif, () => {
 
 // Sticker WM
 packname = sticker_name
-author = sticker_author
-wm = '© Aine'
+pengarang =  stiker_sipa
+wm  '© sipa'
 
 Intervalmsg = 1800 //detik
 
